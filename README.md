@@ -1,7 +1,8 @@
-![PLUS_MINUS Trends](HomeVsAway.png)
 # NBA Stats Analysis
 
 This project analyzes NBA team performance using data from the `nba_api`. The focus is on the Golden State Warriors, examining trends in `PLUS_MINUS` for home and away games. The analysis involves data wrangling, feature engineering, and visualization.
+
+![HomeVsAway](https://github.com/user-attachments/assets/04ed5d92-65f4-4bff-84bf-869bde142f08)
 
 
 ## Installation
