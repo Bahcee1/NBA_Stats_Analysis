@@ -13,5 +13,6 @@ To run this project, ensure you have Python and the following libraries installe
 
 Install dependencies with:
 ```bash
-pip install nba_api pandas matplotlib
-
+pip install nba_api
+import pandas as pd
+import matplotlib.pyplot as plt
